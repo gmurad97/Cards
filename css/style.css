@@ -154,6 +154,7 @@ body {
     font-weight: bold;
     margin-top: 16px;
     margin-right: 25px;
+    transition: background-color 0.3s linear, color 0.3s linear;
 }
 
 .size-selected,
